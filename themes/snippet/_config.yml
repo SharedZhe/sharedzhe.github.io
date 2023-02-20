@@ -8,18 +8,18 @@ menu:
   - page: home
     url: /
     icon:
-  - page: 前端
-    url: /categories/前端/
+  - page: 电影
+    url: /categories/电影/
     icon:
-  - page: 后端
-    url: /categories/后端/
-    icon:
-  - page: 工具
-    url: /categories/工具/
-    icon:
-  - page: 时间轴
-    url: /archives/
-    icon:
+  # - page: 后端
+  #   url: /categories/后端/
+  #   icon:
+  # - page: 工具
+  #   url: /categories/工具/
+  #   icon:
+  # - page: 时间轴
+  #   url: /archives/
+  #   icon:
 
 ## favicon
 favicon: /favicon.ico
@@ -168,10 +168,10 @@ utterances:
   enable: true
   repo: shenliyang/snippet-comment
   issueTerm: pathname
-  issueNumber: 
+  issueNumber:
   theme: github-light
-  label: 
-  cdn: 
+  label:
+  cdn:
 
 ## Valine评论
 valine:

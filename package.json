@@ -28,6 +28,6 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^0.0.3",
     "hexo-theme-volantis": "^5.7.7",
-    "save": "^2.5.0"
+    "save": "^2.9.0"
   }
 }
